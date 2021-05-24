@@ -2,6 +2,10 @@
 
 # Vraag: De tech-industrie bestaat voor een groot deel uit dezelfde type personen en testen vervolgens hun websites bij weer dezelfde types, met stereotypering, vooroordelen en biased uitkomsten tot gevolg. Herken je dit als probleem? Moet dit veranderen? In wat voor team zie jij jezelf graag werken?
 
+Ik herken dit zeker als probleem. Je ziet bij veel bedrijven in het CMD vakgebied dat er nog een best groot onderscheid is tussen de rollen die mannen veelal op zich nemen en de rollen die vrouwen veelal op zich nemen. We lopen wel wat vooruit als je kijkt naar onze zuidelijke continentgenoten, maar dat neemt niet weg dat er nog genoeg te doen is. Wat ik persoonlijk ook nog best veel zie is dat mensen met een etnische of allochtone achtergrond ook wel wat meer gerepresenteerd worden, maar dat kan ook schijn zijn. Misschien kijk ik wel naar de verkeerde bedrijven en neem ik daarom deze aanname.
+
+Bij de bedrijven die ik veelal langs zie komen zie ik graag dat ze het gebrek aan diversiteit harder aanpakken. Het is lastig om je aannames in kwestie te stellen, maar je bouwt er wel betere producten mee. Vooral als het producten zijn die een zo'n breed mogelijk publiek moeten bereiken. Ik test graag mijn aannames, en ik zou dit graag willen doen in een divers team die dit fasiliteert en hier grote stappen in maakt.
+
 # Aantekeningen
 
 ## Mammut case: Build in amsterdam
