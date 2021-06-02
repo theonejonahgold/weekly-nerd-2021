@@ -2,6 +2,30 @@
 
 # Vraag: Welke onderwerpen die zijn behandeld tijdens de minor hebben de meeste indruk op je gemaakt, per vak?
 
+## Web apps from scratch
+
+Wat mij het meeste indruk heeft gemaakt is wat de tekortkomingen zijn van een SPA. Het omzeilt een paar Browser-technlogieën, zoals routing en SEO, en geeft er niets of een hacky oplossing voor terug. Hash routing sprint daar naar boven, wat misbruik maakt van navigeren naar elementen met een id om routing zonder van pagina te veranderen toe te staan.
+
+## CSS to the recue
+
+De ruwe kracht die CSS bezit, en hoeveel je ermee voor elkaar kan krijgen. Vooral op het gebied van 3D. Ik had altijd wel het idee dat je wat coole dingen kon doen met CSS in 3D, maar zo ver heb ik het nog nooit gepusht. Ik denk dat ik zeker het theoretische limiet van wat mogelijk is met CSS heb bereikt met mijn Rubik's Cube experimenten.
+
+## Progressive web app
+
+Caches, en de features die je eromheen kan bouwen. Ik heb voor mijn opdracht een HackerNews kloon gebouwd, wat een nieuwssite is waar je artikelen kan delen en reacties kan achterlaten. Ik heb met caches een bookmark-systeem gebouwd, die ook offline werkt.
+
+## Browser technologies
+
+Hoe makkelijk wij als developers het maken om de gebruiker te benadelen. Het kost veel moeite om een Kahoot kloon te bouwen die te gebruiken is zonder CSS en JavaScript, maar het resultaat is wel zeer bevredigend, en bruikbaar voor veel meer mensen.
+
+## Real-time web
+
+Dat real-time eigenlijk niet 100% real-time is. Er worden nog steeds requests verzonden en responses ontvangen, het gebeurt alleen over een verbinding die nooit afsluit, maar altijd open staat voor verkeer vanaf beide kanten van de lijn. De benaming is dus eigenlijk niet helemaal oprecht. Ook ervoor zorgen dat dataverkeer je "response buffer" niet overbelast, waardoor je applicatie volledig kan crashen.
+
+## Human-centered design
+
+Hoe je testen soms niet zo serieus moet aanpakken, en gewoon wat op moet gooien en kijken wat er blijft hangen. Testscenario's schrijven volgens het boekje en testpersonen deze door laten lopen maken je blind voor wat er daaromheen fout zou kunnen gaan. Je gebruikers lopen niet als een robot telkens dezelfde stappen door, en dat moet ook terug te vinden zijn in hoe je je tests opzet.
+
 # Aantekeningen
 
 ## Introductie
